@@ -17,3 +17,5 @@ Write a C program using the fork() system call that generates a Collatz conjectu
 /**********************************************************************************************************/
 
 Output of Program:
+
+![alt text](https://raw.githubusercontent.com/michaelpmoloney/Collatz-Conjecture-/master/Moloney_HW1_Screenshot.png)
